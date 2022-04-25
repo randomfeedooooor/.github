@@ -21,8 +21,7 @@ Users must trust us (the random number publisher) to not leak the series of hash
 
 ## Tasks
 1. Front-end (@junkim012)
-    A. Fork Pontis-ui
-    B. Clean up Jun's UI
+    1. Fork Pontis-ui or clean up Jun's Next.js UI
 1. Prover (@junkim012)
     1. (Optional) See if we can generate a proof using <https://github.com/nccgroup/draft-irtf-cfrg-vrf-06/blob/master/ecvrf_edwards25519_sha512_elligator2.py#L68>
 1. Slides (@nashqueue)
