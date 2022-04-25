@@ -12,8 +12,11 @@ randomfeedooooor is a [Pontis](https://github.com/42labs/Pontis) publisher for r
     1. Describe how we would verify this proof in Cairo
     1. Think about questions and prepare slides for that
     1. Show in README.md example of how a Cairo contract can consume our random numbers
-    1. Roadmap and partnership with ZKasino and MatchboxDAO
-    1. Memes
+        1. V0 heads or tails game
+        2. V1 heads or tails game with commit / reveal
+    3. Roadmap and partnership with ZKasino and MatchboxDAO
+    4. Memes
+    5. Icon for randomfeedooooor
 
 ## Links
 
