@@ -2,22 +2,6 @@
 
 randomfeedooooor is a [Pontis](https://github.com/42labs/Pontis) publisher for random numbers
 
-## Tasks
-1. Front-end (@junkim012)
-    1. Fork Pontis-ui or clean up Jun's Next.js UI
-1. Prover (@junkim012)
-    1. (Optional) See if we can generate a proof using <https://github.com/nccgroup/draft-irtf-cfrg-vrf-06/blob/master/ecvrf_edwards25519_sha512_elligator2.py#L68>
-1. Slides (@nashqueue)
-    1. Describe motivation for project
-    1. Describe how we would verify this proof in Cairo
-    1. Think about questions and prepare slides for that
-    1. Show in README.md example of how a Cairo contract can consume our random numbers
-        1. V0 heads or tails game
-        2. V1 heads or tails game with commit / reveal
-    3. Roadmap and partnership with ZKasino and MatchboxDAO
-    4. Memes
-    5. Icon for randomfeedooooor
-
 ## Links
 
 1. <https://cairo-utils-web.vercel.app/>
