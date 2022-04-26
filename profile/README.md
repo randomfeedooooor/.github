@@ -1,6 +1,6 @@
 # randomfeedooooor
 
-randomfeedooooor is a [Pontis](https://github.com/42labs/Pontis) publisher for random numbers
+randomfeedooooor is a [Pontis](https://github.com/42labs/Pontis) publisher for random numbers that was built for the first [StarkNet hackathon](https://starknet.io/latest-updates/starknet-hackathon-amsterdam/) in Amsterdam 🇳🇱. To learn more, see our [slides](https://docs.google.com/presentation/d/1RE6nsiJ3ENVG9I3Rc7RAa0v59WdaJm3cu4JROf81bFo/edit?usp=sharing).
 
 ## Links
 
