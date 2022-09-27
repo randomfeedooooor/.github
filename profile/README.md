@@ -1,6 +1,6 @@
 # randomfeedooooor
 
-randomfeedooooor sources random numbers from [drand](https://drand.love/) and publishing them to [Pontis](https://github.com/42labs/Pontis), an oracle on StarkNet.
+randomfeedooooor sources random numbers from [drand](https://drand.love/) and publishes them to [Pontis](https://github.com/42labs/Pontis), an oracle on StarkNet.
 
 This project came in second place at the [StarkNet hackathon](https://starknet.io/latest-updates/starknet-hackathon-amsterdam/) in Amsterdam 🇳🇱. To learn more, see our [slides](https://docs.google.com/presentation/d/1RE6nsiJ3ENVG9I3Rc7RAa0v59WdaJm3cu4JROf81bFo/edit?usp=sharing).
 
